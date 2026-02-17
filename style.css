@@ -60,7 +60,7 @@ ul {
   align-items: center;
   color: var(--white);
 
-  background: url("/assets/Dr_Apj_Abdul_Kalam_3.webp") center / cover no-repeat;
+  background: url("assets/Dr_Apj_Abdul_Kalam_3.webp") center / cover no-repeat;
   filter: grayscale(100%);
 }
 
@@ -530,4 +530,5 @@ ul {
     padding: 0.3rem;
     font-size: 0.5rem;
   }
+
 }
